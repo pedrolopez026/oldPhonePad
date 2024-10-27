@@ -1,0 +1,7 @@
+C:\Users\PedroMac\source\repos\oldPhonePad\OldPhonePad\bin\Debug\OldPhonePad.exe.config
+C:\Users\PedroMac\source\repos\oldPhonePad\OldPhonePad\bin\Debug\OldPhonePad.exe
+C:\Users\PedroMac\source\repos\oldPhonePad\OldPhonePad\bin\Debug\OldPhonePad.pdb
+C:\Users\PedroMac\source\repos\oldPhonePad\OldPhonePad\obj\Debug\OldPhonePad.csproj.AssemblyReference.cache
+C:\Users\PedroMac\source\repos\oldPhonePad\OldPhonePad\obj\Debug\OldPhonePad.csproj.CoreCompileInputs.cache
+C:\Users\PedroMac\source\repos\oldPhonePad\OldPhonePad\obj\Debug\OldPhonePad.exe
+C:\Users\PedroMac\source\repos\oldPhonePad\OldPhonePad\obj\Debug\OldPhonePad.pdb
